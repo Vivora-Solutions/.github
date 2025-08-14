@@ -121,7 +121,6 @@ The system enables customers to easily discover, book, and review salons, while 
   - Break
 
 - **Supabase** for authentication, authorization, and file storage (logos, images)
-- Atomic booking creation to prevent partial inserts
 
 ---
 
@@ -156,4 +155,4 @@ The system enables customers to easily discover, book, and review salons, while 
 
 ## License
 
-This project is proprietary and maintained by **\[Your Organization Name]**. All rights reserved.
+This project is proprietary and maintained by **Vivora**. All rights reserved.
